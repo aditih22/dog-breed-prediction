@@ -2,7 +2,7 @@
 
 **Problem Statement:**
 
-Dog Breed Prediction Model
+### Dog Breed Prediction Model
 The dog breed prediction model is built using a Convolutional Neural Network (CNN) to classify dog images into specific breeds. The breeds considered in this example include Scottish Deerhound, Maltese Dog, and Bernese Mountain Dog.
 
 ### Model Architecture
@@ -88,10 +88,10 @@ Metrics: Accuracy is used to evaluate the model's performance.
 
 ![image](https://github.com/user-attachments/assets/bfe06fca-a0de-41a3-babd-0f11c151cca4)
 
-#### Step 4 : Testing the model with Image
+#### Step 5 : Testing the model with Image
 
 ![image](https://github.com/user-attachments/assets/50fb3022-25e1-481d-bb42-03a7223d2f29)
 
-#### Step 4 : Lauching The App on streamlit 
+#### Step 6 : Lauching The App on streamlit 
 
 ![image](https://github.com/user-attachments/assets/61604d0a-b322-4c9a-886b-fb77de1f6690)
